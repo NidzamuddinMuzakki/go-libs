@@ -1,4 +1,4 @@
-module go-cimb-lib
+module github.com/NidzamuddinMuzakki/go-libs
 
 go 1.22.5
 

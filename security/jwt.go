@@ -3,8 +3,8 @@ package security
 import (
 	"errors"
 	"fmt"
-	"go-cimb-lib/env"
-	"go-cimb-lib/log"
+	"github.com/NidzamuddinMuzakki/go-libs/env"
+	"github.com/NidzamuddinMuzakki/go-libs/log"
 	"strings"
 
 	"github.com/golang-jwt/jwt"

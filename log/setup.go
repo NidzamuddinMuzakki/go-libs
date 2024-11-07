@@ -2,7 +2,7 @@ package log
 
 import (
 	"fmt"
-	"go-cimb-lib/env"
+	"github.com/NidzamuddinMuzakki/go-libs/env"
 	"os"
 	"runtime"
 	"strconv"

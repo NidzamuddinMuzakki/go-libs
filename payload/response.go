@@ -1,7 +1,7 @@
 package payload
 
 import (
-	"go-cimb-lib/log"
+	"github.com/NidzamuddinMuzakki/go-libs/log"
 	"strconv"
 
 	"github.com/gin-gonic/gin"
